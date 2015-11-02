@@ -1,0 +1,1 @@
+Fully fledged wiki system within the Joomla 1.5 framework, no hacks, core edits or bridges.
